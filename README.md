@@ -1,0 +1,2 @@
+# A-Federated-Learning-Framework-With-Proximal-Regularization-Using-Lstm-Networks
+The proposed LSTM–FedProx framework enables federated learning on distributed time-series data while preserving privacy. Clients train local LSTM models and use proximal regularization to handle non-IID data, reducing client drift. The server aggregates updates iteratively, ensuring stable convergence and improved performance.
